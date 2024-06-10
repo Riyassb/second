@@ -1,0 +1,1 @@
+ C:\\Users\\riyas\\petdy\\petdyworld\\.dart_tool\\flutter_build\\19e60cb6ed8da8a084e2e97ca784c7a3\\native_assets.yaml: 
